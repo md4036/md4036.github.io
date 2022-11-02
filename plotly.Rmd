@@ -69,8 +69,6 @@ ny_noaa_tidy%>%
   count(name)%>%
   plot_ly(
     x = ~name, y= ~n, 
-    type = "bar"
-  )
-
+    type = "bar")
 ```
 
