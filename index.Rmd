@@ -9,7 +9,8 @@ output:
 
 # This is a brief introduction about me!
 
-Hi! My name is Margaret Ding and I am a Master in Public Health student at the Mailman School of Public Health in the Department of Population and Family Health. This website is for my Data Science I class. 
+Hi! My name is Margaret Ding and I am a Master in Public Health student at the Mailman School of Public Health in the Department of Population and Family Health. I am pursuing a Public HEalth Research Methods Certificate. This website is for my Data Science I class.
+
 
 Here is a direct link to the about page: [about](about.html).
 
