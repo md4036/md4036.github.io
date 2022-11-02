@@ -11,6 +11,9 @@ navbar:
       href: http://github.com/md4036/
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/margaretgding/
+    - text: "NOAA Dashboard"
+      href: NOAADashboard.html
+    
 output:
   html_document:
     theme: journal

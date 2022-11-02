@@ -13,9 +13,10 @@ Hi! My name is Margaret Ding and I am a Master in Public Health student at the M
 
 Here is a direct link to the about page: [about](about.html).
 
-## New Section
+## Here is the NOAA Dashboard 
 
-[Here's](plotly.html) a page with plotly plots
+[Here's](NOAADashboard.html) a page with plotly plots
+
 
 
 
