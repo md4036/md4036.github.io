@@ -1,0 +1,68 @@
+---
+title: "About Me!"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+# Academic and Professional Experience
+
+EDUCATION
+
+Columbia University, Mailman School of Public Health, New York, NY				  
+Master of Public Health in Population and Family Health, Certificate in Public Health Research Methods (GPA: 4.0330)           
+
+
+New York University, College of Arts & Science, New York, NY				        
+Bachelor of Arts in Psychology, Minors in Public Health and Nutrition & Dietetics				
+Honors: cum laude (GPA: 3.70/4.00), University Honors Scholar, Founders’ Day Award
+
+
+SKILLS
+
+Technical Skills: Excel, PowerPoint, Word, Adobe Audition & Premiere, SPSS (All Intermediate) 
+Certifications: Human Subjects Protection Training (includes Minors), HIPPA, CITI conflict of Interest for PHS Researchers, Research with Minors
+
+RESEARCH-RELATED EXPERIENCE
+
+NY Presbyterian Hospital-CUIMC Turn2Us Program, New York, NY 
+FORWARD Community Apex Fellow (program evaluation team) & Research Assistant              
+•	Aid in the data analysis and writing of a manuscript comparing Parents and Staff Mental Health Literacy
+•	Support in the delivery of anti-bullying workshop sessions at Manhattan elementary schools as part of a mental health promotion and prevention curriculum that aims to improve mental health literacy for children and families
+•	Clean and analyze Staff and Parent Mental Health Literacy (MHL) survey data to evaluate efficacy of Turn 2 Us promotion and prevention curriculum and created presentation to share results with the Turn 2 Foundation 
+•	Develop codebooks for data entry for staff and student workshop surveys to evaluate and improve several workshops delivered during the year 
+•	Propose improvements and streamlined the Staff and Parent MHL surveys for next year’s data collection
+
+
+Center for Mindfulness & Human Potential, Santa Barbara, CA	 
+Post-Baccalaureate Research Fellow                      
+•	Coordinated cold email outreach campaign and recruited 240 teachers and 600 students to enroll in digital high school evidence-based course 
+•	Interviewed a dozen musicians to create attention training and emotion regulating exercises 
+•	Brainstormed and suggested improvements in order to develop a more culturally responsive course by reporting insights from districts’ strategic plans 
+•	Conducted extensive research to request for two-year extension of government-funded grant proposal by conducting literature searches and reviews and formulating submission arguments
+•	Collaborated with team to develop and refine post-test course survey questions for participant feedback and usage data
+
+RISE Lab, New York, NY								      	         
+Data Management Team Member & Research Assistant 
+•	Recorded outcome evaluation data of juvenile justice-involved girls and their guardians to evaluate effectiveness of National Institute of Justice funded randomized controlled trial of ROSES intervention
+•	Conducted twelve literature reviews on topics such as critical consciousness and system justification
+•	Analyzed qualitative data from advocacy progress reports to evaluate resource needs, track weekly goals, and monitor time spent with intervention participants
+
+
+VOLUNTEER EXPERIENCE
+
+Columbia Student Service Corp, New York, NY						 
+Grant Writing and Social Media Campaign Volunteer 	
+•	Aided in obtaining a $5,000 CSSC grant and creating a recruitment flyer to help recruit 10 families for the project
+
+Visions and Pathways, Bridgewater, NJ						                           
+Brahma House Mentor                                 
+•	Mentored girls between the ages of 13 and 17 dealing with difficult family situations; compiled lesson plans and provided education and financial literacy
+
+PUBLICATIONS
+
+Mrazek, A., Mrazek, M., Carr, P., Delegard, A., Ding, M., et al. (2020) “The Feasibility of Attention Training for Reducing Mind-Wandering and Digital Multitasking in High Schools” Published in Education Sciences ([article](https://www.mdpi.com/2227-7102/10/8/201))
+
+
